@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T07:52:34.128Z",
-  "expiresAt": "2026-08-12T13:52:34.128Z",
+  "generatedAt": "2026-08-12T11:11:22.786Z",
+  "expiresAt": "2026-08-12T17:11:22.786Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676407.shtml",
-      "title": "江西省鹰潭市人民政府副市长陈敏接受审查调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676501.shtml",
+      "title": "《猫武士》动画首次揭开“神秘面纱”",
       "category": "综合",
-      "summary": "中新网8月12日电 据江西省纪委监委消息：江西省鹰潭市人民政府党组成员、副市长陈敏涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委监委纪律审查和监察调查。",
+      "summary": "中新网深圳8月12日电 《猫武士》首部官方动画主创见面会日前于深圳开启，活动现场，导演罗德里戈·布拉斯亲手打造的3D角色模型，把书中的族群生灵拉到现实眼前，让到场的每一位“猫迷”实实在在触摸到这部尚在制作中动画的创作巧思。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676407.shtml",
-      "publishedAt": "2026-08-12T07:46:42.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676501.shtml",
+      "publishedAt": "2026-08-12T11:06:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-12/10676403.shtml",
-      "title": "中缅边境芒海通道今年出入境旅客已突破50万人次",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676497.shtml",
+      "title": "前7月河南外贸进出口超6000亿元 同比增25.8%",
       "category": "综合",
-      "summary": "【东盟专线】中缅边境芒海通道今年出入境旅客已突破50万人次",
+      "summary": "中新网郑州8月12日电 (张楠)郑州海关12日发布数据显示，今年前7个月，河南省进出口总值达6088.6亿元，同比增长25.8%，出口、进口值均创历史同期最高纪录，外贸增势强劲。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-12/10676403.shtml",
-      "publishedAt": "2026-08-12T07:43:40.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676497.shtml",
+      "publishedAt": "2026-08-12T10:56:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676406.shtml",
-      "title": "2026海峡两岸（德州）书画文化交流活动在山东德州举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676496.shtml",
+      "title": "福建省第十八届运动会青少年部拳击赛在明溪县开赛",
       "category": "综合",
-      "summary": "中新网德州8月12日电 (刘驰原)鲁公归来——颜真卿的书格与人格主题展暨2026海峡两岸(德州)书画文化交流活动8日至11日在山东德州举办。本次活动以颜真卿书法文化与精神品格为核心载体，汇聚100余位海峡两岸书法家、艺术家、文化学者及各界嘉宾，通过主题展览、实地参访、共创笔会、学术座谈四大板块，共叙两岸同胞同源情谊，推动两岸书画艺术互学互鉴、相融相通。",
+      "summary": "中新网福建明溪8月12日电 (林铭水 郭伊琳)福建省第十八届运动会青少年部拳击项目比赛11日在三明市明溪县正式开赛，来自全省各地市的9支代表队、244名青少年拳击选手参加。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676406.shtml",
-      "publishedAt": "2026-08-12T07:43:24.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676496.shtml",
+      "publishedAt": "2026-08-12T10:49:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676405.shtml",
-      "title": "网红“秘境”竟是险境 揭秘“野峡谷”暗藏安全隐患",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676494.shtml",
+      "title": "呼伦湖保护区夏季鸟类监测总数量66185只",
       "category": "综合",
-      "summary": "“人少免费、小众秘境、随手出大片”，刷到这样的文案搭配美景，你会心动吗？暑期，社交平台上推荐小众探险，一些未开发区域变成了户外胜地，吸引大量游客奔赴。滤镜背后，暗流山洪、湿滑崖壁、通信盲区等风险往往不被提及，近年来，这类“秘境变险境”的事故屡屡发生。",
+      "summary": "中新网呼伦贝尔8月12日电(张玮 张东阳)12日，记者从内蒙古呼伦湖国家级自然保护区管理局获悉，依据《2026年呼伦湖保护区鸟类监测方案》，结合保护区夏季鸟类活动习性及分布特点，该保护区工作人员已完成2026年度夏季鸟类监测工作，监测共记录到鸟类80种，总数量66185只，同比增长6.3%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676405.shtml",
-      "publishedAt": "2026-08-12T07:39:23.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676494.shtml",
+      "publishedAt": "2026-08-12T10:49:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676399.shtml",
-      "title": "深圳大鹏发现珍稀海草床 执法部门清理滩涂废弃笼具",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad#2",
+      "title": "中國單身漢為何陷「閃婚」騙局？",
+      "category": "国际",
+      "summary": "BBC駐中國記者碧嘉蘭（Laura Bicker）走訪「閃婚」婚介市場，了解部分婚介機構如何在短短幾天內安排男女結婚，並採訪多名聲稱因騙婚而蒙受損失的男性，其中有人因此損失畢生積蓄。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T10:31:56.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676495.shtml",
+      "title": "田湾核电7号机组开始首次装料工作",
       "category": "综合",
-      "summary": "中新网深圳8月12日电 (记者 方伟彬)深圳市海洋综合执法支队12日发布消息，该市大鹏新区近日发现近十年来首次记录的连片海草床——卵叶喜盐草，呈零散斑块状分布。这一填补深圳典型海洋生态系统关键环节的发现，因部分斑块出现踩踏痕迹而拉响保护警报。",
+      "summary": "记者今天(12日)从中核集团获悉，中核集团田湾核电7号机组首次装料正式开始，本次装料也是VVER-1200型机组国内首堆首次装料。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676399.shtml",
-      "publishedAt": "2026-08-12T07:35:49.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676495.shtml",
+      "publishedAt": "2026-08-12T10:27:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676398.shtml",
-      "title": "今年上半年 河北服务业对该省经济增长贡献率达66.5%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676489.shtml",
+      "title": "钢轨温度突破50℃ 长春站多措并举战酷暑护航暑运",
       "category": "综合",
-      "summary": "中新网石家庄8月12日电 (王夏菲 安麒静)河北省政府新闻办12日召开新闻发布会通报，“十四五”期间，河北服务业对该省经济增长贡献率从2022年的49.8%稳步提高至2025年的57.4%，连续12年成为拉动经济增长的“主引擎”。2026年上半年，河北服务业增加值增长5.5%，占该省GDP比重58.1%，对该省经济增长贡献率达到66.5%，持续彰显经济增长“",
+      "summary": "中新网长春8月12日电 (张瑶 张娜)今年入伏以来，长春持续晴热高温。烈日炙烤下，长春站露天站场钢轨表面温度突破50℃，车体、金属配件灼热烫手。长春站运转车间调车组职工身着全套长袖工装坚守岗位，高温热浪叠加作业闷热体感，给调车、接发列车作业带来严峻挑战。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676398.shtml",
-      "publishedAt": "2026-08-12T07:33:45.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676489.shtml",
+      "publishedAt": "2026-08-12T10:10:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-12/10676372.shtml",
-      "title": "江西新干：匠心巧手“剪”出千年传承新韵",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676490.shtml",
+      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "category": "综合",
-      "summary": "图为彭许平正在挑选剪纸的纸张。 熊锦阳 摄 图为彭许平正在绘制图案。 熊锦阳 摄 图为彭许平正在剪纸。 熊锦阳 摄 图为彭许平正在展示剪纸作品。 熊锦阳 摄 图为彭许平剪纸作品《家乡风韵》。 熊锦阳 摄 图为彭许平剪纸作品《蒙娜丽莎》。 熊锦阳 摄 图为彭许平剪纸作品《米兰大教堂》。 付丽玲 摄",
+      "summary": "朱镕基同志遗像 新华社发 新华社北京8月12日电 中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志，因病医治无效，",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676372.shtml",
-      "publishedAt": "2026-08-12T07:30:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676490.shtml",
+      "publishedAt": "2026-08-12T10:01:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-12/10676378.shtml",
-      "title": "“香港电脑通讯节2026”8月21日开锣",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676488.shtml",
+      "title": "从“好好吃饭”到珍视和平 《欢迎来龙餐馆》成都路演引共鸣",
       "category": "综合",
-      "summary": "图为现场展示的游戏产品。中新网记者 陈永诺 摄 图为现场展示的产品。中新网记者 陈永诺 摄 图为现场展示的产品。中新网记者 陈永诺 摄 图为现场展示的产品。中新网记者 陈永诺 摄 图为现场展示的产品。中新网记者 陈永诺 摄",
+      "summary": "中新网8月12日电 (杨予頔)“成都不光好吃、好玩，而且是个幸福指数特别高的城市，所以观众才能这么热情、拥有这么好的心态。”12日，电影《欢迎来龙餐馆》主创团队亮相成都路演，主演沈腾在现场表示。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676378.shtml",
-      "publishedAt": "2026-08-12T07:25:39.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676488.shtml",
+      "publishedAt": "2026-08-12T09:53:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676380.shtml",
-      "title": "多国谴责哥伦比亚承认以色列对戈兰高地“主权”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676477.shtml",
+      "title": "北京东城开放12处应急避险停车场 市民可就近停放",
       "category": "综合",
-      "summary": "中新社北京8月12日电 综合消息：叙利亚、沙特阿拉伯、伊拉克、埃及等国11日分别发表声明，谴责哥伦比亚新政府宣布承认以色列对戈兰高地拥有“主权”，敦促哥方重新考虑其立场。",
+      "summary": "中新网北京8月12日电 (陈杭 任可馨)记者12日从北京市东城区获悉，为全力防范强降雨引发的城市内涝、车辆涉水受损等风险，保障市民车辆财产安全，该区在暴雨预警期间开放12处应急避险停车场，为市民提供临时安全停车保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676380.shtml",
-      "publishedAt": "2026-08-12T07:24:48.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676477.shtml",
+      "publishedAt": "2026-08-12T09:50:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,103 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/shipin/2026/08-12/news1065153.shtml",
-      "title": "小女孩雨中撑伞守护流浪的小生命 这一幕太暖了！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676487.shtml",
+      "title": "从“有房住”到“住好房”：河南楼市消费风向转变",
+      "category": "综合",
+      "summary": "中新网郑州8月12日电 (陈贵洋)“以前购房者大多都关注价格，现在聊得最多的是户型、物业和周边规划。”老周在河南省会郑州做了近十年房产中介，最近明显感觉楼市风向变了，购房者越来越看重房屋的居住品质。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676487.shtml",
+      "publishedAt": "2026-08-12T09:47:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676482.shtml",
+      "title": "福建首个“数字游民+乡村OPC”创业园落户屏南",
+      "category": "综合",
+      "summary": "中新网宁德8月12日电 (叶茂 甘叶斌)12日，屏南县首届“数字游民+乡村OPC(一人公司)”社区生态大会在福建省宁德市屏南县熙岭乡龙潭村举行，共探AI、OPC创业、乡村跨境电商融合发展之路，以数字力量激活乡村振兴新潜能。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676482.shtml",
+      "publishedAt": "2026-08-12T09:43:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676476.shtml",
+      "title": "12日夜间北京降雨预计减弱 13日早晨基本结束",
+      "category": "综合",
+      "summary": "中新网北京8月12日电 11日傍晚开始，北京迎来强降雨。北京市气象局官方微博12日通报称，降雨主要集中在12日白天，夜间强度逐渐减弱。北京处于暴雨橙色和雷电黄色预警信号中，市民出行请注意防范。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676476.shtml",
+      "publishedAt": "2026-08-12T09:40:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#0",
+      "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
+      "category": "国际",
+      "summary": "馬來西亞的森林城市曾被宣傳為「天堂」，但最近警方因涉嫌詐騙活動對其進行突襲搜查。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T09:33:20.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676475.shtml",
+      "title": "伊拉克北部库区首府再遭无人机袭击",
+      "category": "综合",
+      "summary": "伊拉克北部库尔德自治区(库区)安全部门一名消息人士12日表示，库区首府埃尔比勒当天上午遭到4架无人机袭击，暂无人员伤亡报告。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676475.shtml",
+      "publishedAt": "2026-08-12T09:32:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-12/10676474.shtml",
+      "title": "直播：第七届成龙国际动作电影周闭幕式暨荣誉盛典",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/shipin/2026/08-12/news1065153.shtml",
-      "publishedAt": "2026-08-12T07:24:39.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-12/10676474.shtml",
+      "publishedAt": "2026-08-12T09:31:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +318,32 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676358.shtml",
-      "title": "在比什凯克感受今非昔比的变化",
+      "id": "sspai-https://sspai.com/post/113219",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "category": "科技",
+      "summary": "想法被及时、完好的记下来，然后呢？ 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113219",
+      "publishedAt": "2026-08-12T09:30:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676473.shtml",
+      "title": "直播海报：国新办就全面推进美丽中国建设有关情况举行新闻发布会",
       "category": "综合",
-      "summary": "中新网乌鲁木齐8月12日电 (杨海博)8月31日，上海合作组织成员国元首理事会与世界游牧民族运动会开幕式将在吉尔吉斯斯坦首都比什凯克市举行。4月以来，比什凯克近百条车道、人行道翻修平整，老旧街区外立面重披新装，公共设施装修升级，市容市貌迎来“高光时刻”，整座城市展现出前所未有的蓬勃生机。笔者近日在比什凯克感受今非昔比的变化。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676358.shtml",
-      "publishedAt": "2026-08-12T07:23:16.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676473.shtml",
+      "publishedAt": "2026-08-12T09:22:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +354,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-12/10676391.shtml",
-      "title": "吕洞宾真的存在 从这些珍贵文物中一睹八仙风采",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-12/10676467.shtml",
+      "title": "山东威海：暑期海滨游持续升温",
       "category": "综合",
-      "summary": "四川博物院“观妙入真”展览中展出的《八仙过海》壁画(3D打印)。 “八仙过海，各显神通”。2026年暑期，当国人耳熟能详的八仙故事被搬上银幕，造就了一部“四川造”暑期档票房黑马电影——《八仙！》。银幕上，八个草根凡人组团历险，拯救苍生；银幕外，古老的八仙神话再次成为焦点，唤起今人无限探寻。",
+      "summary": "8月12日，山东威海高新区国际海水浴场、火炬八街等景点游人如织。金志成 摄 8月12日，山东威海高新区国际海水浴场、火炬八街等景点游人如织。金志成 摄 8月12日，山东威海高新区国际海水浴场、火炬八街等景点游人如织。张蕃 摄 8月12日，山东威海高新区国际海水浴场、火炬八街等景点游人如织。张蕃 摄 8月12日，山东威海高新区国际海水浴场、火炬八街等景点游人如",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-12/10676391.shtml",
-      "publishedAt": "2026-08-12T07:22:58.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-12/10676467.shtml",
+      "publishedAt": "2026-08-12T09:21:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +372,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676340.shtml",
-      "title": "印尼一客轮凌晨起火 船上百余人全部撤离",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/zj/2026/08-12/10676472.shtml",
+      "title": "自家难题无解拼命抹黑中国？！二驳美西方对中国“系统压制”宗教不实论调",
       "category": "综合",
-      "summary": "中新社雅加达8月12日电 (记者 李志全)印度尼西亚一艘载有一百多人的客轮12日凌晨起火。印尼交通部海运总局证实，这艘客轮当时正从巴厘岛驶往邻近的龙目岛。目前船上人员均已撤离，暂无人员伤亡报告。",
+      "summary": "【首发】自家难题无解拼命抹黑中国？！二驳美西方对中国“系统压制”宗教不实论调",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676340.shtml",
-      "publishedAt": "2026-08-12T07:22:48.000Z",
+      "url": "https://www.chinanews.com.cn/zj/2026/08-12/10676472.shtml",
+      "publishedAt": "2026-08-12T09:20:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +390,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676370.shtml",
-      "title": "A股收评：超4100只个股飘红，三大指数集体收涨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/zj/2026/08-12/10676471.shtml",
+      "title": "谎言如何能掩盖真相？！一驳美西方对华“强制同化”不实指控",
       "category": "综合",
-      "summary": "A股收评：超4100只个股飘红，三大指数集体收涨；光通信、光模块概念全天爆发，房地产走强，半导体、贵金属上涨；油气、煤炭、电力下跌",
+      "summary": "【首发】谎言如何能掩盖真相？！一驳美西方对华“强制同化”不实指控",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676370.shtml",
-      "publishedAt": "2026-08-12T07:21:20.000Z",
+      "url": "https://www.chinanews.com.cn/zj/2026/08-12/10676471.shtml",
+      "publishedAt": "2026-08-12T09:16:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +408,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676389.shtml",
-      "title": "街头环卫车挂满玩偶 司机说“生活可以好看一点”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200889.shtml",
+      "title": "中国大熊猫保护研究中心举办大熊猫生日季丰容活动",
       "category": "综合",
-      "summary": "刘张和他开的环卫车。 草莓熊蹲坐车头，“卡皮巴拉”靠在车厢左侧，海绵宝宝和派大星挤在一起……数十只毛绒玩偶，密密匝匝挂在车上，排布规整。车子穿行在成都街巷，毛绒玩偶随之轻轻晃动，满眼鲜活与闹热。",
+      "summary": "8月12日，中国大熊猫保护研究中心在绵阳基地举行2026年大熊猫生日季丰容活动，饲养员为大熊猫们精心准备了漏食球、胡萝卜串、西瓜等食物丰容。本次活动以“青山育国宝，竹韵秀山河”为主题，以“一根翠竹串联竹海寻缘、非遗手艺、熊猫保育、乡村振兴、科技保护、野化放归”为主线，采用“寻缘—守护—焕新”三段式叙事串联多元保护场景。据悉，每年的7至9月，是圈养大熊猫的集中",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676389.shtml",
-      "publishedAt": "2026-08-12T07:19:52.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200889.shtml",
+      "publishedAt": "2026-08-12T09:15:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +426,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676386.shtml",
-      "title": "沙颍河发生2026年第1号洪水",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676440.shtml",
+      "title": "全球媒体聚焦|中国城市旅游蕴藏巨大机遇",
       "category": "综合",
-      "summary": "中新网8月12日电 据“中国水利”微信公众号消息，受降雨影响，8月12日12时24分，淮河中游支流沙颍河周口水文站(河南周口)水位涨至警戒水位(46.10米)，依据主要江河洪水编号规定，此次洪水编号为“沙颍河2026年第1号洪水”。",
+      "summary": "美国《旅行与旅游世界》网站8月10日刊文称，2026年，中国旅游业持续增长，北京、上海、重庆、成都、杭州、西安、哈尔滨和三亚等城市是推动这一增长的主要力量。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676386.shtml",
-      "publishedAt": "2026-08-12T07:17:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676440.shtml",
+      "publishedAt": "2026-08-12T09:13:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +444,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676388.shtml",
-      "title": "C919首条国际航线开通",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676433.shtml",
+      "title": "历史铁案不容辩驳、亵渎！二战后，同盟国对日军战争罪行进行系统清算",
       "category": "综合",
-      "summary": "8月12日15时许",
+      "summary": "原标题：二战后，同盟国对日军战争罪行进行系统清算——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676388.shtml",
-      "publishedAt": "2026-08-12T07:17:02.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676433.shtml",
+      "publishedAt": "2026-08-12T09:13:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +462,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-12/10676379.shtml",
-      "title": "河南新乡县：深入开展“同心”系列主题活动 汇聚高质量发展合力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676457.shtml",
+      "title": "美学者一针见血：所谓“中国挤压”是反事实假设",
       "category": "综合",
-      "summary": "今年以来，新乡市新乡县委统战部聚焦凝聚人心、汇聚力量主责主业，以“同心”系列主题活动为抓手，持续提升基层统战工作质效，为县域经济社会高质量发展注入强劲统战动能。",
+      "summary": "近日，哥伦比亚大学历史学家图兹在Substack发表专栏文章《“中国挤压”(China Squeeze)是基于反事实假设的政治话语》，直言“中国挤压论”根本不是实证经济分析，只是一套服务政治动员的话术，其核心目的是将复杂的全球和相关国家发展危机简单甩锅给中国，刻意在国际舆论场妖魔化中国工业化进程。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-12/10676379.shtml",
-      "publishedAt": "2026-08-12T07:15:26.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676457.shtml",
+      "publishedAt": "2026-08-12T09:12:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +480,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-12/10676375.shtml",
-      "title": "河南周口市：瓜田里的守望与回应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676468.shtml",
+      "title": "本轮强降雨山西累计转移群众8579人 疏散游客两万余人",
       "category": "综合",
-      "summary": "暑刚过，三川大地被毒辣辣的日头晒着。",
+      "summary": "记者今天(12日)从山西省应急管理厅了解到，8月11日以来，受台风“白海豚”残余环流与冷空气共同影响，山西部分地区出现强降雨天气。监测数据显示，8月11日7时至12日7时，山西全省共有2004个站点监测到降水，3个站点降雨量超100毫米，29个站点降雨量介于50至100毫米之间，最大降雨量出现在山西省晋城市陵川县古郊乡营盘村，达到126.3毫米。受降雨影响，",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-12/10676375.shtml",
-      "publishedAt": "2026-08-12T07:15:20.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676468.shtml",
+      "publishedAt": "2026-08-12T09:11:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +498,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-12/10676374.shtml",
-      "title": "河南周口市工商联为企业送上“法治定心丸”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676456.shtml",
+      "title": "河南多地：实行“五停”，非必要不外出",
       "category": "综合",
-      "summary": "“合同签了字，不等于上了保险；对外担保签字的笔一落，可能就踩到了‘雷’上。”近日，周口市天久康药业有限公司会议室里，一场别开生面的法治课正热火朝天地进行。讲课的不是大学教授，而是周口市中级人民法院的法官杨国领和王秋洁。听课的也不是学生，是这家药企的董事长、法务总监和一线管理人员。",
+      "summary": "受台风“白海豚”残余环流影响，全国多地遭遇持续性极端强降雨。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-12/10676374.shtml",
-      "publishedAt": "2026-08-12T07:13:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676456.shtml",
+      "publishedAt": "2026-08-12T09:10:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +516,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676382.shtml",
-      "title": "印度孟买发生山体滑坡 已致6人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676437.shtml",
+      "title": "雅万高铁上半年开行10640列次 正点率达99.4%",
       "category": "综合",
-      "summary": "中新网8月12日电 据《印度快报》12日报道，印度孟买库尔拉西部一处居民区当天凌晨发生山体滑坡，目前已造成6人死亡、多人受伤，仍有人员可能被困。",
+      "summary": "中新网雅加达8月12日电 (记者 李志全)印尼中国高速铁路有限公司(KCIC)12日发布的消息，2026年上半年，共开行雅万高铁列车10640列次，其中10574列次实现正点运行，正点率达到99.4%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676382.shtml",
-      "publishedAt": "2026-08-12T07:13:14.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676437.shtml",
+      "publishedAt": "2026-08-12T09:09:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +534,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-12/10676376.shtml",
-      "title": "AI研学热持续升温 警惕科技噱头消解素质教育初心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676438.shtml",
+      "title": "亲身感受破除固有成见，民间往来构筑相知基础，美国民众正重新认识中国",
       "category": "综合",
-      "summary": "孔德淇",
+      "summary": "【环球时报驻美国特约记者 冯亚仁 环球时报记者 李迅典 陈子帅 郑璇】近一段时间，皮尤、盖洛普、益普索等多家民调机构公布的一系列民调显示：美国社会对中国的认知正缓慢脱离非黑即白的“敌人叙事”，越来越多普通民众不再简单将中国视作单一安全威胁，转而接受“战略竞争者”这一更中性的定位。《环球时报》驻美国特约记者近来走访美国多地，采访了科技从业者、退休教师、小企业主",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-12/10676376.shtml",
-      "publishedAt": "2026-08-12T07:10:48.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676438.shtml",
+      "publishedAt": "2026-08-12T09:09:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +552,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-12/10676373.shtml",
-      "title": "一纸新规掀起“摘牌”行动 餐饮品牌靠什么说话？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676434.shtml",
+      "title": "联合国教科文组织呼吁阿富汗取消女孩受教育限制",
       "category": "综合",
-      "summary": "羊城晚报记者 孙绮曼",
+      "summary": "中新网北京8月12日电 联合国教科文组织11日表示，截至2026年，阿富汗约有240万女孩被禁止上中学，呼吁该国取消对女性受教育的限制。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/08-12/10676373.shtml",
-      "publishedAt": "2026-08-12T07:08:08.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676434.shtml",
+      "publishedAt": "2026-08-12T09:08:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +570,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-12/10676371.shtml",
-      "title": "2026年“同心筑梦科普行”安徽班开营",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200880.shtml",
+      "title": "2026上海书展开幕 各地读者共赴八月阅读盛宴",
       "category": "综合",
-      "summary": "中新网合肥8月12日电 (记者 赵强)“这次研学为我们打开了一扇眺望科学世界的窗口，希望能在此次研学中收获知识与喜悦。”新疆和田地区皮山县第二中学学生阿卜杜力艾则孜·麦麦提敏12日在合肥说。",
+      "summary": "8月12日，一年一度的“上海书展”如期开幕。作为中国出版业最具影响力的大众书展之一，各地读者纷纷涌入上海展览中心主会场，在浓郁的墨香中，尽情享受这场属于八月的阅读盛宴。中新社记者 张亨伟 摄 8月12日，一年一度的“上海书展”如期开幕。作为中国出版业最具影响力的大众书展之一，各地读者纷纷涌入上海展览中心主会场，在浓郁的墨香中，尽情享受这场属于八月的阅读盛宴。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-12/10676371.shtml",
-      "publishedAt": "2026-08-12T07:07:22.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200880.shtml",
+      "publishedAt": "2026-08-12T09:08:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +588,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676369.shtml",
-      "title": "吉林乌拉非遗焕新出圈 凭年轻化创新吸引海外青年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676428.shtml",
+      "title": "一场新疆婚礼，为什么让300多个网友千里奔赴？",
       "category": "综合",
-      "summary": "中新网吉林8月12日电 题：吉林乌拉非遗焕新出圈 凭年轻化创新吸引海外青年",
+      "summary": "艾克热木江·吾麦尔怎么也没想到，自己的婚礼上，竟然来了300多名“陌生人”，他们来自全国各地，跨越千里，只为参加这场婚礼。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676369.shtml",
-      "publishedAt": "2026-08-12T07:04:01.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676428.shtml",
+      "publishedAt": "2026-08-12T09:06:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +606,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676364.shtml",
-      "title": "武大靖拟出任国家短道速滑队主教练",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-12/10676465.shtml",
+      "title": "巴基斯坦：正全力以赴促使美伊双方回到谈判桌前",
       "category": "综合",
-      "summary": "中新网8月12日电 据国家体育总局冬季运动管理中心官网消息，8月12日，国家体育总局冬运中心发布《冬运中心关于国家短道速滑队主教练竞聘结果的公示》。经公开选聘，拟聘用武大靖为国家短道速滑队主教练。",
+      "summary": "8月12日，巴基斯坦外交部发言人塔希尔·安德拉比在新闻发布会上表示，巴基斯坦内政部长纳克维11日抵达德黑兰，正在与伊朗高级官员举行会晤。纳克维访问伊朗的目的是讨论双边关系、安全相关问题和地区发展，特别是地区的和平与稳定。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-12/10676364.shtml",
-      "publishedAt": "2026-08-12T07:00:35.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676465.shtml",
+      "publishedAt": "2026-08-12T09:05:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,74 +624,37 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676368.shtml",
-      "title": "手机电脑涨幅潮愈演愈烈 专家称短期内难缓解",
-      "category": "综合",
-      "summary": "从年初开始，由AI服务器严重挤占存储芯片产能引发的终端产品涨价潮愈演愈烈。手机轮番调价的同时，电脑市场也难独善其身，记者走访发现，联想、惠普、华硕等主流品牌售价普遍上调。国家统计局给出的数据印证了这一波涨势：7月平板电脑价格环比上涨11.3%，计算机价格上涨5.5%，移动电话机价格上涨1.0%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676368.shtml",
-      "publishedAt": "2026-08-12T06:58:41.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#0",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "category": "国际",
+      "summary": "長崎與廣島對台灣出席原爆紀念活動的待遇明顯不同。長崎將台灣安排在使節區外，引發抗議與「中國壓力」爭議。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T08:31:43.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200855.shtml",
-      "title": "西藏拉萨：藏戏唱响雪顿节",
-      "category": "综合",
-      "summary": "8月12日，拉萨迎来传统节日雪顿节。雪顿节上，藏戏表演是不可错过的文化盛宴。8月12至16日，6支藏戏队在拉萨市宗角禄康公园举行藏戏展演活动，吸引民众前来欣赏。藏戏是一门集歌舞、表演、说唱、文学于一体的艺术，已有600多年历史，2009年入选联合国人类非物质文化遗产代表作名录。图为8月12日，尼木县塔荣藏戏队在拉萨宗角禄康公园表演《扎西雪巴》。中新社记者 李",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-12/1200855.shtml",
-      "publishedAt": "2026-08-12T06:58:30.000Z",
+      "id": "sspai-https://sspai.com/post/113352",
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "category": "科技",
+      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113352",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-12/10676362.shtml",
-      "title": "财政部拟发行2026年记账式贴现（五十期）国债",
-      "category": "综合",
-      "summary": "中新网8月12日电 据财政部网站消息，财政部拟发行2026年记账式贴现(五十期)国债。现就本次发行工作有关事宜通知如下：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676362.shtml",
-      "publishedAt": "2026-08-12T06:57:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-12/10676365.shtml",
-      "title": "台风“白海豚”已停编，暴雨要下到什么时候？",
-      "category": "综合",
-      "summary": "中新网北京8月12日电(记者 邵萌)今年第13号台风“白海豚”8月11日上午在湖北省境内减弱为热带低压，下午其风力进一步减弱，已很难确定其环流中心。中央气象台11日17时对其停止编号，18时解除台风蓝色预警。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676365.shtml",
-      "publishedAt": "2026-08-12T06:56:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -837,7 +924,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad#1",
       "title": "芬蘭海底天然氣管道受損，案件為何在香港審理？",
       "category": "国际",
       "summary": "多名熟悉國際法的學者解釋船舶管轄權機制，在一般情況下，在公海或專屬經濟區的船舶受船旗國專屬管轄；若非領海範圍，即使面對海底電纜或管道受損，沿岸國原則上無法攔截船舶或拘捕船員。",
@@ -871,7 +958,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#1",
       "title": "中國單身男性陷「閃婚」騙局：在孤獨與婚姻焦慮中受害",
       "category": "国际",
       "summary": "「閃婚」詐騙現象，反映出中國長期累積的人口結構危機已走向極端。",
@@ -1120,24 +1207,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113283",
-      "title": "派评 | 近期值得关注的 App",
-      "category": "科技",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113283",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad#1",
       "title": "為什麼航空公司對鋰電池日趨警惕",
       "category": "国际",
@@ -1155,41 +1224,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad#1",
-      "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
-      "category": "国际",
-      "summary": "一名項目經理接受BBC採訪時表示電纜將鋪設於「墳墓」下方，引發《哈利波特》粉絲投訴。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T08:00:07.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113115",
-      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-      "category": "科技",
-      "summary": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113115",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad#1",
       "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
       "category": "国际",
@@ -1198,23 +1232,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T06:37:01.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad#1",
-      "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
-      "category": "国际",
-      "summary": "資訊自由（FOI）申請顯示，班克斯的藝術作品已花費英國納稅人近15萬英鎊，而且費用還在不斷上漲。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T05:54:01.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1776,23 +1793,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T11:14:21.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2kqgn3n3ro/trad#2",
-      "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
-      "category": "国际",
-      "summary": "1976年7月28日凌晨3時42分，中國河北省唐山市發生7.8級地震，造成24.2萬人遇難。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2kqgn3n3ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T13:41:25.000Z",
       "tags": [
         "国际",
         "商业",
