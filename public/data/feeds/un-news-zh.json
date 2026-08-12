@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "feedUrl": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml",
+  "sourceId": "un-news-zh",
+  "title": "联合国新闻",
+  "items": [
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142616",
+      "title": "国际劳工组织：全球青年失业率上升 年轻人获得体面工作的道路愈发艰难",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142616",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142610",
+      "title": "【专题报道】“孔雀外交”：五位蓝白“新使者”亮相日内瓦",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142610",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142617",
+      "title": "教科文组织呼吁全面恢复阿富汗女童和妇女受教育权",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142615",
+      "title": "缅甸：联合国调查人员记录了军方对平民的蓄意袭击",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142615",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142614",
+      "title": "全球7月气温创有记录以来第二高",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142614",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142613",
+      "title": "应对哥伦比亚7.4级地震 联合国表示随时准备提供支持",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142613",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
+      "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
+      "meta": "联合国新闻 · 2026/8/11",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
+      "publishedAt": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
+      "title": "哥伦比亚发生强烈地震，联合国提供援助",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142611",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142609",
+      "title": "刚果（金）：埃博拉病毒在患者尚未就医前便已夺走他们的生命",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142609",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142608",
+      "title": "阿富汗：联合国敦促塔利班就安全部队犯下的滥用职权行为公开信息",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142608",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142607",
+      "title": "联合国呼吁采取紧急行动，保护儿童免受网络信息风险的侵害",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142607",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142606",
+      "title": "乌克兰人道主义援助仓库遭袭",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142606",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142590",
+      "title": "【专题报道】从废弃油桶到世界舞台：钢鼓见证文化传承与创新",
+      "meta": "联合国新闻 · 2026/8/10",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142590",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
+      "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
+      "meta": "联合国新闻 · 2026/8/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142604",
+      "publishedAt": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142603",
+      "title": "【世界进行时】2026年8月7日",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142603",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142599",
+      "title": "国际刑事法院缔约国大会主席团对乍得和委内瑞拉退出《罗马规约》表示遗憾",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142599",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142598",
+      "title": "世卫组织技术委员会同意在刚果（金）对传统埃博拉疫苗实施针对本迪布焦型病毒临床试验",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142598",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142595",
+      "title": "【前方视野】委内瑞拉双强震：联合国紧急驰援",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142595",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142596",
+      "title": "天气、能源及地缘政治因素推动国际食品价格指数7月小幅上涨",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142596",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142549",
+      "title": "【子午播报】2026年8月7日",
+      "meta": "联合国新闻 · 2026/8/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142549",
+      "publishedAt": "2026-08-07T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142593",
+      "title": "非洲疾控中心和世卫组织呼吁扩大社区防控 遏制刚果（金）埃博拉疫情",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142593",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142592",
+      "title": "广岛原子弹爆炸81周年 古特雷斯呼吁各国共同降低核风险",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142592",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142591",
+      "title": "联合国：南苏丹举行可信选举所需条件仍未具备 呼吁停止战斗并重启包容性对话",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142591",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142589",
+      "title": "儿基会：加沙停火300天 至少300名儿童遇难",
+      "meta": "联合国新闻 · 2026/8/6",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142589",
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142588",
+      "title": "困在霍尔木兹海峡的船只面临另一种威胁",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142588",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142586",
+      "title": "人权高专结束访问约旦 呼吁加强司法保障并继续支持难民",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142586",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142587",
+      "title": "伊朗处决和死刑判决数量急剧上升",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142587",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142585",
+      "title": "乌克兰平民伤亡持续增加 联合国谴责俄罗斯新一轮袭击",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142585",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142584",
+      "title": "安理会：联合国警告“伊斯兰国”持续构成威胁",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142584",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142583",
+      "title": "粮食署：“厄尔尼诺”现象或致数千万人陷入急性饥饿",
+      "meta": "联合国新闻 · 2026/8/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142583",
+      "publishedAt": "2026-08-05T12:00:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-08-12T07:52:34.128Z",
+  "provider": "OneBench 公共资讯快照"
+}
