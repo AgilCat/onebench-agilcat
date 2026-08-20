@@ -5,6 +5,20 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "title": "特朗普称白宫立法事务主任布雷德将离职",
+      "meta": "中国新闻网 · 2026/8/20",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "publishedAt": "2026-08-20T16:52:13.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "title": "德国今年4月以来约有1.4万人因高温相关因素死亡",
+      "meta": "中国新闻网 · 2026/8/20",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "publishedAt": "2026-08-20T16:51:23.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
       "title": "餐饮黄牛高价倒卖排号是否涉嫌违法？律师解读来了",
       "meta": "中国新闻网 · 2026/8/20",
@@ -199,22 +213,8 @@
       "meta": "中国新闻网 · 2026/8/20",
       "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
       "publishedAt": "2026-08-20T13:49:09.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
-      "meta": "中国新闻网 · 2026/8/20",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "publishedAt": "2026-08-20T13:48:51.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
-      "meta": "中国新闻网 · 2026/8/20",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "publishedAt": "2026-08-20T13:48:25.000Z"
     }
   ],
-  "updatedAt": "2026-08-20T16:51:37.518Z",
+  "updatedAt": "2026-08-20T19:00:30.828Z",
   "provider": "OneBench 公共资讯快照"
 }
