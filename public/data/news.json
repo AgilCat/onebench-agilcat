@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T16:25:59.009Z",
-  "expiresAt": "2026-09-10T22:25:59.009Z",
+  "generatedAt": "2026-09-10T20:53:50.319Z",
+  "expiresAt": "2026-09-11T02:53:50.319Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -69,9 +69,9 @@
     },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694358.shtml",
-      "title": "第二届知识产权执法国际交流大会发布2025年—2026年中国知识产权行政执法十大案例",
+      "title": "2025-2026年中国知识产权行政执法十大案例发布",
       "category": "综合",
-      "summary": "一、天津市市场监管委查处倪某倩销售侵犯“HAZZYS”“HUSH PUPPIES”注册商标专用权的服装案",
+      "summary": "第二届知识产权执法国际交流大会发布2025年—2026年中国知识产权行政执法十大案例",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694358.shtml",
@@ -213,9 +213,9 @@
     },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
-      "title": "净网专项行动 | 严打灾害谣言 守护清朗网络——吉隆泥石流灾害网络谣言典型案例",
+      "title": "散播涉西藏吉隆泥石流谣言 多人被处罚",
       "category": "综合",
-      "summary": "为持续净化网络生态，有效震慑涉灾造谣传谣行为，西藏网警公布吉隆泥石流灾害相关网络谣言典型案例：",
+      "summary": "净网专项行动 | 严打灾害谣言 守护清朗网络——吉隆泥石流灾害网络谣言典型案例",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
@@ -585,6 +585,42 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142770",
+      "title": "“9·11”事件25周年：联合国重申反恐与维护人权共同责任",
+      "category": "国际",
+      "summary": "值此“9·11”恐怖袭击事件25周年之际，联合国秘书长发言人和联合国人权事务高级专员办事处分别发表声明，缅怀遇难者，向幸存者和首批救援人员致敬，并强调打击恐怖主义与维护人权是共同责任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142769",
+      "title": "联合国气候变化事务负责人：气候危机已成为欧洲经济安全紧急状况",
+      "category": "国际",
+      "summary": "联合国气候变化框架公约执行秘书斯蒂尔9月10日在布鲁塞尔欧洲议会环境、气候与食品安全委员会发表演讲时表示，气候危机现已成为整个欧洲大陆范围内的经济安全紧急状况。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142769",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1613,24 +1649,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
-      "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
-      "category": "国际",
-      "summary": "受太平洋海面异常升温的推动，厄尔尼诺气候现象正在加剧，且尚未达到峰值。气象预报几乎可以肯定，该现象将持续至2027年2月——预计未来数月全球大部分地区将出现异常温暖的天气。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142735",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
       "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
       "category": "国际",
@@ -1644,24 +1662,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142734",
-      "title": "货币基金组织：亚洲的下一个增长故事",
-      "category": "国际",
-      "summary": "国际货币基金组织周三发布博客文章指出，亚洲拥有全球一半以上的人口，贡献了全球经济增长、贸易和创新的很大一部分。如今，推动亚洲崛起的驱动力正在发生转变，贸易日趋碎片化，能源安全令人担忧，人口老龄化加剧，生产率增长愈发难以维持。政策制定者面临的问题是如何抓住新机遇，重振亚洲的经济增长。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
